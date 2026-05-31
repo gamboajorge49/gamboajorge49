@@ -1,5 +1,5 @@
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jorge-Delphi" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg/1200px-Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg.png"> 
+  <img align="center" alt="Jorge-Delphi" height="40" width="40" src="[https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg/1200px-Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg.png](https://upload.wikimedia.org/wikipedia/commons/5/55/Delphi_Logo_12.svg)"> 
   <img align="center" alt="Jorge-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
 </div>
 
