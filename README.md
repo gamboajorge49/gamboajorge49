@@ -1,9 +1,17 @@
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jorge-Delphi" height="40" width="40" src="[https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg/1200px-Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg.png](https://upload.wikimedia.org/wikipedia/commons/5/55/Delphi_Logo_12.svg)"> 
-  <img align="center" alt="Jorge-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
+## 🛠️ Tecnologias e Ferramentas
+
+Uma visão geral das principais linguagens e tecnologias com as quais trabalho:
+
+<div id="badges">
+  <!-- Delphi -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Delphi_Logo_12.svg" alt="Delphi" height="40" style="vertical-align: middle; margin-right: 10px;"/>
+  <!-- C# -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="40" style="vertical-align: middle; margin-right: 10px;"/>
 </div>
 
-<!---
-gamboajorge49/gamboajorge49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 📊 Estatísticas e Badges
+
+[![Delphi](https://img.shields.io/badge/Delphi-7B1FA2?style=for-the-badge&logo=delphi&logoColor=white)](https://www.embarcadero.com/br/products/delphi)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
